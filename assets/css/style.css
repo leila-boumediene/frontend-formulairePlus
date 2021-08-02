@@ -1,0 +1,47 @@
+@import "reset.css";
+
+body {
+  background-color: #c6c6c6;
+  display: flex;
+  justify-content: center;
+
+  margin-top: 200px;
+}
+main {
+  padding: 45px;
+  background-color: #8eb344;
+  height: 600px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 30px;
+  font-size: x-large;
+  color: #013341;
+}
+form {
+  display: flex;
+  flex-direction: column;
+}
+select {
+  margin: 20px;
+}
+input {
+  margin: 20px;
+}
+textarea {
+  margin: 20px;
+}
+button {
+  margin: 20px;
+  height: 70px;
+  width: 300px;
+  background-color: #013341;
+  color: white;
+}
