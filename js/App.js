@@ -16,6 +16,7 @@ function App() {
 
 export default App;
 
+// J'ai commencé par un simple formulaire en HTML avant de réaliser que je devais avoir une approche react je n'ai malheureusement pas eu le temps de finir
 // document.addEventListener("DOMContentLoaded", () => {
 //   console.log("Document chargé!");
 //   const formulaire = document.querySelector("#formulaire");
